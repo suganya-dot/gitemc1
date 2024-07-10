@@ -1,2 +1,2 @@
-Line edited from git branch2 
-city='bangalore'
+Line edited from git branch3 
+city='chennai'
