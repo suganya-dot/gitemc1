@@ -1,1 +1,2 @@
-added new line in test2 file from main branch
+Line edited from git branch2 
+city='bangalore'
